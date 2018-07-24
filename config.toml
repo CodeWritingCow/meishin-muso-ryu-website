@@ -1,4 +1,4 @@
-baseurl = "http://www.meishinmusoryu.com/"
+baseurl = "https://codewritingcow.github.io/meishin-muso-ryu-website/"
 languageCode = "en-us"
 title = "Meishin Muso Ryu"
 theme = "hugo-strata-theme"
@@ -15,7 +15,7 @@ relativeURLs = "true"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Meishin Muso Ryu"
-	description = "Official website of Meishin Muso Ryu (明神無想流), an Iaido style passed down from Shinkage Ryu (神影流)"
+	description = "Official website of Meishin Muso Ryu (明神無想流), an Iaido style passed down from Shinkage Ryu"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -46,7 +46,7 @@ relativeURLs = "true"
 
 		copyright = [
 			"&copy; Meishin Ryu Sogo Budo Renmei",
-			"Website made by: [Gary Pang](//codewritingcow.com)"
+			"Design: [Gary Pang](//codewritingcow.com)"
 		]
 	
 	[params.rss]
@@ -56,7 +56,7 @@ relativeURLs = "true"
 	[params.about]
 		hide  = false
 		title = "Meishin Muso Ryu"
-		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu (神影流). Our head is <a href='/instructors/'>Matsushita Shuji Sensei.</a></p><p>We teach Iaido and Kendo classes. Our dojo is in the Poconos region of Pennsylvania. We invite you to train with us.</p>"
+		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu. Our head is <a href='/instructors/'>Matsushita Shuji Sensei.</a></p><p>We teach Iaido and Kendo classes. Our dojo is in the Poconos region of Pennsylvania. We invite you to train with us.</p>"
 
 
 	[params.portfolio]
@@ -74,12 +74,6 @@ relativeURLs = "true"
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Inoue Dojo in Tokyo 2017"
-			description = "Matsushita sensei trains with Shinozuka sensei and Kamei sensei"
-
-		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
 			title = "Meishin Muso Ryu Seminar 2014"
 			description = "Group picture from our first seminar"
 
@@ -96,10 +90,16 @@ relativeURLs = "true"
 			description = "Three-Person Iaido demonstration"
 
 		[[params.portfolio.gallery]]
+			image = "fulls/03.jpg"
+			thumb = "thumbs/03.jpg"
+			title = "Scene from *Budo*"
+			description = "Matsushita Sensei performs *chiburi*"
+
+		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
 			title = "Scene from *Budo*"
-			description = "Matsushita Sensei performs *chiburi*"			
+			description = "Matsushita Sensei (right) and Fukaya Sensei spar"
 
 	[params.recentposts]
 		hide  = true
@@ -118,7 +118,7 @@ relativeURLs = "true"
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Do you have questions about Iaido or Kendo? Please submit your questions with the form below. We will respond as soon as possible."
+		content = "Do you have questions about Iaido or Kendo? Please submit your questions with the form below. We will respond as soon as possible. // **TODO: SET UP FORM SO IT WORKS.** // "
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "40.982062,-75.197148"
@@ -143,7 +143,7 @@ relativeURLs = "true"
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "codewritingcow@gmail.com"
+		email = "meishinmuso@yahoo.co.jp"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native

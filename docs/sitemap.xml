@@ -3,145 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.meishinmusoryu.com/post/shudokan-kendo-godogeiko-2018/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/post/kendo-instagram/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/post/garden-state-kendo-tournament-2018/</loc>
-    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/post/meishin-muso-ryu-official-website/</loc>
-    <lastmod>2018-04-23T15:55:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/videos/</loc>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/videos/</loc>
     <lastmod>2018-02-27T03:42:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/members/</loc>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/members/</loc>
     <lastmod>2018-02-27T03:14:30-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/instructors/</loc>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/instructors/</loc>
     <lastmod>2018-02-27T03:11:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/categories/</loc>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/post/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/post/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/post/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/post/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/tags/boston/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/garden-state-kendo/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/godogeiko/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/tags/detroit/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/gsk/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/categories/instagram/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/joshua-caroll/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/categories/ipsum/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/ken-wa-kan/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/tags/kendo/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/ken-zen-institute/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/categories/kendo/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/kenshinkai/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/tags/michael-luckenbill/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/post/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/meishin-muso-ryu/</loc>
-    <lastmod>2018-04-23T15:55:59-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/tags/shuji-matsushita/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/new-jersey/</loc>
-    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/tags/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/post/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/shudokan/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/shuji-matsushita/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/tournament/</loc>
-    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/vincent-lan/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/categories/website/</loc>
-    <lastmod>2018-04-23T15:55:59-04:00</lastmod>
+    <loc>https://codewritingcow.github.io/meishin-muso-ryu-website/tags/tournaments/</loc>
+    <lastmod>2018-03-24T22:56:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
